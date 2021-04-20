@@ -6,10 +6,12 @@ public class DeathZone : MonoBehaviour
 {
     public Transform playerTransform;
     public Vector2 spawn;
+    public float TopDeathZone = 35;
+    public float BottomDeathZone = -20;
 
     void Update()
     {
-        if (playerTransform.position.y < -20 || playerTransform.position.y > 35)
+        if (playerTransform.position.y < BottomDeathZone || playerTransform.position.y > TopDeathZone)
         {
             playerTransform.position = spawn;
         }

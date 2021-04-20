@@ -20,6 +20,7 @@ public class Ground : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D collision)
     {
+        
         if(collision.collider.tag == "Ground")
         {
             Player.GetComponent<PlayerControls>().isGrounded = true;
