@@ -383,8 +383,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 602}
     - Class: 114
-      Script: {instanceID: 11278}
-    - Class: 114
       Script: {instanceID: 11562}
     - Class: 114
       Script: {instanceID: 12392}
@@ -403,8 +401,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13684}
     - Class: 114
-      Script: {instanceID: 14060}
-    - Class: 114
       Script: {instanceID: 14666}
     - Class: 114
       Script: {instanceID: 14720}
@@ -417,10 +413,6 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
-      Script: {instanceID: 0}
-    - Class: 223
-      Script: {instanceID: 0}
-    - Class: 224
       Script: {instanceID: 0}
     - Class: 19719996
       Script: {instanceID: 0}

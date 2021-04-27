@@ -1227,7 +1227,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '   Move left             S or LEFT'
+  m_Text: '   Move left             A or LEFT'
 --- !u!222 &1085891848
 CanvasRenderer:
   m_ObjectHideFlags: 0
